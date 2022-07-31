@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/*This is a comment*/
 struct customDataType
 {
     int totalSize;
